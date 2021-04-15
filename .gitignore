@@ -4,8 +4,8 @@
 /__Previews/
 /pcb_library_jdh/
 *.Outjob
-*.pdf
-*.rar
+/*.pdf
+/*.rar
 
 
 
